@@ -1,7 +1,7 @@
 public class Animale {
 
-    @Override
-    public String toString() {
-        return "il verso dell'animale è";
+
+    public void faiIlVerso() {
+        System.out.println("il verso dell'animale è");
     }
 }
