@@ -6,7 +6,7 @@ public class Main {
         Gatto gatto = new Gatto();
 
         animale.faiIlVerso();
-        ;
+
         gatto.faiIlVerso();
 
 
